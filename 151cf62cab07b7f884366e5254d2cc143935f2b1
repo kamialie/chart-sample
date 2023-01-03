@@ -1,0 +1,1 @@
+{"jobID":"9a9c13f0-9e5c-38cd-2e24-d6154dead800","spec":{"type":"policy","cause":{"Message":"","User":"Kamil Aliev \u003ckamilaliev@hotmail.com\u003e"},"spec":{"default:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}

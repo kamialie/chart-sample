@@ -1,0 +1,1 @@
+{"jobID":"cfb04dbb-1d32-1727-2863-27ecf34188ed","spec":{"type":"policy","cause":{"Message":"","User":"Kamil Aliev \u003ckamilaliev@hotmail.com\u003e"},"spec":{"default:deployment/hello":{"add":{"tag.hello-app":"semver:\u003e1.0"},"remove":{}}}},"result":null}

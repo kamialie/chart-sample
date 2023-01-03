@@ -1,0 +1,1 @@
+{"jobID":"55eaff90-6c42-b809-191b-e0cf85099815","spec":{"type":"policy","cause":{"Message":"","User":"Kamil Aliev \u003ckamilaliev@hotmail.com\u003e"},"spec":{"default:deployment/hello":{"add":{"tag.hello-app":"regexp:^[1-9].[1-9]$"},"remove":{}}}},"result":null}

@@ -6,7 +6,7 @@ metadata:
     app: hello
   name: hello
   annotations:
-    fluxcd.io/tag.hello-app: semver:>1.0
+    fluxcd.io/tag.hello-app: regexp:^[1-9].[1-9]$
     fluxcd.io/automated: 'true'
 spec:
   replicas: 1
